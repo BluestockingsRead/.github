@@ -1,0 +1,2 @@
+# Allow other issue types that don't fit the standard forms.
+blank_issues_enabled: true

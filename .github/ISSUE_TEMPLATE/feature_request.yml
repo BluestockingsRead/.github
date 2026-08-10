@@ -1,0 +1,60 @@
+name: 💡 Feature request
+description: Suggest an improvement or new capability
+title: "[Feature] "
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the idea!
+
+        Describing the problem or use case is especially helpful. There
+        may be more than one good way to solve it.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Quick checks
+      options:
+        - label: I searched the existing issues for a similar request.
+          required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: |
+        Describe the situation, limitation, or annoyance that prompted
+        the request.
+      placeholder: I often need to...
+    validations:
+      required: true
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to see?
+      description: |
+        Describe your preferred solution or behavior, if you have one.
+    validations:
+      required: false
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives or workarounds
+      description: |
+        Is there another way to accomplish this now? Have you considered
+        another approach?
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: |
+        Add examples, screenshots, links, sketches, or anything else that
+        helps explain the idea.
+    validations:
+      required: false
