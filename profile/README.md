@@ -1,11 +1,11 @@
 # Bluestockings Read
 
-**Small, free tools for people who read too much and tinker too much.**
+**free, user-friendly tools for people who read too much and tinker too much.**
 
-Hi, I'm Kiera, and I can't leave well enough alone. My special interests include
-reading, and also... *everything*. I'm a book nerd (with the requisite book
-blog) and I make tools for fellow readers. Usually because I wanted something
-that didn't exist, and because I could. Isn't that why we're all here?
+Hi, I'm Kiera, and my special interests include reading, and also...
+*everything*. I'm a book nerd (with the requisite book blog) and I make tools
+for fellow readers. Usually because I wanted something that didn't exist, and
+because I could. Isn't that why we're all here?
 
 Everything here is free, open, and stays that way. No paywalls, no secret VIP
 rooms, no compulsory patron side quests.
