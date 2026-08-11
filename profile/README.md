@@ -16,7 +16,7 @@ rooms, no compulsory patron side quests.
 | Project | What it does | Status |
 |---|---|---|
 | **[Accio Books](https://github.com/BluestockingsRead/Accio-Books)** | Multi-site book search: One query, many catalogs, fewer tabs | 🟢 Live |
-| **[Naked Details](https://github.com/BluestockingsRead/Naked-Details)** | A tiny userscript that automatically expands `<details>` elements on websites | 🟢 Live |
+| **[Overly Detailed](https://github.com/BluestockingsRead/Overly-Detailed)** | A tiny userscript that automatically expands `<details>` elements on websites | 🟢 Live |
 
 
 ## Also on deck
