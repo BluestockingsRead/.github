@@ -1,4 +1,4 @@
-# Bluestockings Read
+# BluestockingsRead
 
 **free, user-friendly tools for people who read too much and tinker too much.**
 
